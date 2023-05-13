@@ -15,7 +15,7 @@ nav li {
 nav li a {
   color: #000;
   text-decoration: none;
-  font-size: 15px;
+  font-size: 25px;
 }
 
 nav li:hover a {
@@ -33,3 +33,9 @@ nav ul li:last-child {
 nav {
   border-bottom: 1px solid #000;
 }
+
+img {
+  border-bottom: 1px solid #000; 
+    
+  };
+

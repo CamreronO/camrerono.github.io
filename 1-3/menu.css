@@ -3,7 +3,7 @@ h1 {
 }
 
 div {
-
+padding: 20px;
 }
 
 div a {
@@ -11,10 +11,7 @@ div a {
 }
 
 div a img {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-
+  
 }
  
 a {

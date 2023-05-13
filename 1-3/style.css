@@ -7,30 +7,29 @@ nav ul {
     align-items: center;
   }
   
-  nav li {
-    display: inline-block;
-    margin: 0 10px;
+nav li {
+  display: inline-block;
+  margin: 0 10px;
+}
+
+nav li a {
+  color: #000;
+  text-decoration: none;
+  font-size: 30px;
+}
+
+nav li:hover a {
+  text-decoration: underline;
+}
+
+nav li:first-child {
+  margin-left: 0;
+}
+
+nav ul li:last-child {
+    margin-left: auto;
   }
-  
-  nav li a {
-    color: #000;
-    text-decoration: none;
-  }
-  
-  nav li:hover a {
-    text-decoration: underline;
-  }
-  
-  nav li:first-child {
-    margin-left: 0;
-  }
-  
-  nav li:last-child {
-    margin-right: 0;
-  }
-  
-  nav {
-    border-bottom: 1px solid #000;
-    margin-bottom: 50px;
-  }
-  
+
+nav {
+  border-bottom: 1px solid #000;
+}

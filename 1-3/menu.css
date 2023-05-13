@@ -1,4 +1,4 @@
-h2 {
+h1 {
     border-bottom: 1px solid #000;
 }
 
@@ -17,7 +17,7 @@ div a img {
  
 a {
     text-decoration: none;
-
+    color: #000;
 }
  
 body :hover a {

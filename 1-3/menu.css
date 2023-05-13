@@ -7,12 +7,10 @@ div {
     margin-bottom: 30px;
   }
   
-div a {
 
-}
 
-div a img {
-  
+div img {
+    border-bottom: 1px solid #000;
 }
  
 a {

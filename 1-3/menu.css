@@ -11,5 +11,15 @@ div a {
 }
 
 div a img {
-    
+  
+
+}
+ 
+a {
+    text-decoration: none;
+
+}
+ 
+body :hover a {
+    text-decoration: underline;
 }

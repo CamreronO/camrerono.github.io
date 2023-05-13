@@ -25,9 +25,9 @@ nav li:first-child {
   margin-left: 0;
 }
 
-nav li:last-child {
-  margin-right: 100%;
-}
+nav ul li:last-child {
+    margin-left: auto;
+  }
 
 nav {
   border-bottom: 1px solid #000;

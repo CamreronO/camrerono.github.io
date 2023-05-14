@@ -10,17 +10,17 @@ th, td {
 }
 
 th {
-  background-color: #dddddd;
+ 
 }
 
 td {
-  background-color: #ffffff;
+ 
 }
 
 
 
 .menu-section {
-  background-color: #f1f1f1;
+ 
   padding: 20px;
 }
 
@@ -36,3 +36,24 @@ td {
 .menu-section p {
   margin: 10px 0;
 }
+
+table.beverages {
+    background-color: tomato;
+  }
+  
+  table.latte {
+    background-color: aqua;
+  }
+  
+  table.hot-chocolate {
+    background-color: indigo;
+  }
+  
+  table.croissant {
+    background-color: darkgoldenrod;
+  }
+  
+  table.muffin {
+    background-color: greenyellow;
+  }
+  

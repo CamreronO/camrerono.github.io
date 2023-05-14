@@ -50,10 +50,10 @@ p {
   text-align: center;
 }
 
-table {
+tr {
   text-align: center;
 } 
  
 tr th {
-
+  text-align: center;
 }

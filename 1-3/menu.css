@@ -1,23 +1,37 @@
-h1 {
-    border-bottom: 1px solid #000;
-}
-
-div {
-    padding: 20px;
-    margin-bottom: 30px;
+table {
+    border-collapse: collapse;
+    width: 100%;
+    margin-bottom: 20px;
   }
   
-
-
-div img {
-    border-bottom: 1px solid #000;
-}
- 
-a {
-    text-decoration: none;
-    color: #000;
-}
- 
-:hover a {
-    text-decoration: underline;
-}
+  th, td {
+    text-align: left;
+    padding: 8px;
+  }
+  
+  th {
+    background-color: #dddddd;
+  }
+  
+  td {
+    background-color: #ffffff;
+  }
+  
+  .menu-section {
+    background-color: #f1f1f1;
+    padding: 20px;
+  }
+  
+  .menu-section h2 {
+    margin-top: 0;
+  }
+  
+  .menu-section img {
+    display: block;
+    margin: 0 auto;
+  }
+  
+  .menu-section p {
+    margin: 10px 0;
+  }
+  

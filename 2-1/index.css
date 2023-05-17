@@ -21,6 +21,10 @@ nav li a {
   nav li:hover a {
     text-decoration: underline;
   }
+
+  nav li {
+    text-decoration: underline;
+  }
   
   
 nav li:first-child {
@@ -32,6 +36,7 @@ nav li:first-child {
   }
 
   nav {
-    border: 1px solid #000;
+    border-bottom: 1px solid #000;
+    background-color: blueviolet;
     }
   

@@ -39,3 +39,10 @@ nav li:first-child {
     border-bottom: 1px solid #000;
     }
   
+   div {
+background-color: #000;
+   }
+
+  div p {
+    margin-left: 20px;
+  }

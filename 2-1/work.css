@@ -9,7 +9,7 @@ nav ul {
 
 nav li {
   display: inline-block;
-  margin: 0 10px;
+  margin: 0;
 }
 
 nav li a {
@@ -26,7 +26,6 @@ nav li:hover a {
   text-decoration: underline;
 }
 
-
 nav li:first-child {
   margin-left: 0;
 }
@@ -35,28 +34,25 @@ nav ul li:last-child {
   margin-left: auto;
 }
 
-  nav {
-    background-color: darkblue;
-    border-bottom: 1px solid #000;
-    margin: 0;
-    }
-  
-    div {
+nav {
+  background-color: darkblue;
+  border-bottom: 1px solid #000;
+}
 
-    }
-    
-    div h2 {
-      background-color:  rgb(147, 147, 253);
-      color: blue;
-      margin: 0;
-    }
-     
-     div ul {
-      background-color: rgba(175, 33, 175, 0.349);
-      color: rgba(46, 3, 46, 0.603);
-      margin: 0;
-     }
+div {
+}
 
-    div ul li {
-      
-    }
+div h2 {
+  background-color: rgb(147, 147, 253);
+  color: blue;
+  margin-bottom: 0;
+}
+
+div ul {
+  background-color: rgba(175, 33, 175, 0.349);
+  color: rgba(46, 3, 46, 0.603);
+}
+
+div ul li {
+  margin-top: 0;
+}

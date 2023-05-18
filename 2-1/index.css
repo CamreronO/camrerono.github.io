@@ -52,4 +52,11 @@ nav li:first-child {
      color: #FFD700;
   }
 
+  div ul {
+ list-style-type:  none;
+  }
+ 
+   ul li {
+     
+   }
 

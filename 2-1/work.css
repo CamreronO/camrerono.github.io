@@ -26,6 +26,7 @@ nav li:hover a {
   text-decoration: underline;
 }
 
+
 nav li:first-child {
   margin-left: 0;
 }
@@ -36,6 +37,7 @@ nav ul li:last-child {
 
   nav {
     background-color: darkblue;
+    border-bottom: 1px solid #000;
     }
   
     div {
@@ -48,10 +50,10 @@ nav ul li:last-child {
     }
      
      div ul {
-     
+      background-color: rgba(110, 0, 110, 0.349);
+      color: rgba(218, 27, 218, 0.349);
      }
 
     div ul li {
-      background-color: rgba(110, 0, 110, 0.349);
       color: rgba(218, 27, 218, 0.349);
     }

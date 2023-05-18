@@ -38,11 +38,12 @@ nav ul {
     background-color: darkblue;
     border-bottom: 1px solid #000;
     height: 50px;
+    margin-bottom: 0;
   }
   
   
   div {
-  
+  margin-top: 0;
   }
   
   div h2 {

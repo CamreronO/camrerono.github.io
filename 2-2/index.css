@@ -40,20 +40,11 @@ nav ul {
   
   div {
     background-color: #FFA500;
-    
   }
   
-  div {
+  div h2 {
     background-color: #FFA500;
-    div {
-      background-color: #FFA500;
-      border: 50px solid orangered;
-      margin: auto;
-      padding: auto;
-    }
-    
   }
-  
   
   div p {
     margin-left: 20px;

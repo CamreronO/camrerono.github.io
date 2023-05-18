@@ -40,3 +40,16 @@ nav li:first-child {
     border-bottom: 1px solid #000;
     }
   
+    div {
+
+    }
+    
+    div h2 {
+      background-color:  rgb(147, 147, 253);
+      color: blue;
+    }
+
+    div p {
+      background-color: rgba(110, 0, 110, 0.349);
+      color: rgba(218, 27, 218, 0.349);
+    }

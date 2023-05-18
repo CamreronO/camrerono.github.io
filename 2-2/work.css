@@ -49,6 +49,8 @@ nav ul {
     background-color: rgb(147, 147, 253);
     color: blue;
     margin-bottom: 0;
+    margin: 0;
+    padding: 0;
   }
   
   div ul {

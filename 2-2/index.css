@@ -45,8 +45,13 @@ nav ul {
   
   div {
     background-color: #FFA500;
-    border: 2px solid orangered;
-    margin: auto;
+    div {
+      background-color: #FFA500;
+      border: 50px solid orangered;
+      margin: auto;
+      padding: auto;
+    }
+    
   }
   
   

@@ -58,6 +58,8 @@ nav ul {
     color: rgba(46, 3, 46, 0.603);
     margin: 0;
     padding: 0;
+    max-height: 100px;
+    height: 60%;
   }
   
   div ul li {

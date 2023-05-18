@@ -40,6 +40,8 @@ nav ul {
   
   div {
     background-color: #FFA500;
+   border: orangered;
+   margin: auto;
   }
   
   div h2 {

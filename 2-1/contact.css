@@ -16,11 +16,11 @@ nav li a {
     color: #000;
     text-decoration: none;
     font-size: 25px;
-     text-decoration: underline;
+     text-decoration: none;
   }
 
   nav li:hover a {
-    text-decoration: underline;
+    text-decoration: none;
   }
 
   nav li {

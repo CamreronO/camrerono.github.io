@@ -1,6 +1,6 @@
 .fade-container {
     background-color: black;
-    display: inline-block;
+    display: block;
     position: relative;
     overflow: hidden;
 }

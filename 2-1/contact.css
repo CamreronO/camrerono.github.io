@@ -38,4 +38,19 @@ nav li:first-child {
   nav {
     border-bottom: 1px solid #000;
     }
-  
+
+    div {
+
+    }
+
+    div h2 {
+       
+    }
+
+    div p {
+
+    }
+
+    h2 strong {
+        color: palevioletred;
+    }

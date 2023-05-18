@@ -40,10 +40,16 @@ nav li:first-child {
     }
   
    div {
-background-color: #FFA500;
+   background-color: #FFA500;
    }
+
+    div h2 {
+      background-color: #FFA500;
+    }
 
   div p {
     margin-left: 20px;
      color: #FFD700;
   }
+
+

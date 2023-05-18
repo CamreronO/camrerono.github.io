@@ -38,6 +38,7 @@ nav ul li:last-child {
   nav {
     background-color: darkblue;
     border-bottom: 1px solid #000;
+    margin: 0;
     }
   
     div {
@@ -47,11 +48,13 @@ nav ul li:last-child {
     div h2 {
       background-color:  rgb(147, 147, 253);
       color: blue;
+      margin: 0;
     }
      
      div ul {
       background-color: rgba(175, 33, 175, 0.349);
       color: rgba(46, 3, 46, 0.603);
+      margin: 0;
      }
 
     div ul li {

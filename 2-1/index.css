@@ -56,7 +56,7 @@ nav li:first-child {
  list-style-type:  none;
   }
  
-   ul li {
+   ul li::marker {
     color: #FFD700;
    }
 

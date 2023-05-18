@@ -18,7 +18,7 @@ nav li a {
   font-size: 25px;
 }
 
-nav li:hover a {
+nav li {
   text-decoration: none;
 }
 

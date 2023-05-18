@@ -22,11 +22,10 @@ nav li a {
   nav li:hover a {
     text-decoration: none;
   }
-
-  nav li {
-    text-decoration: underline;
-  }
   
+  nav li {
+    text-decoration: none;
+  }
   
 nav li:first-child {
     margin-left: 0;

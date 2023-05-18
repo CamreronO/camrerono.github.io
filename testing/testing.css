@@ -1,12 +1,16 @@
 .container {
-    width: 100%;
-    overflow: hidden; /* Clear floats */
-  }
-  
-  .column {
-    width: 50%;
-    float: left;
-    box-sizing: border-box;
-    padding: 20px; /* Adjust padding as needed */
-  }
-  
+  width: 100%;
+  max-width: 960px;
+  margin: 0 auto;
+}
+
+.column {
+  width: 50%;
+  float: left;
+  padding: 20px;
+  box-sizing: border-box;
+}
+
+.clearfix {
+  clear: both;
+}

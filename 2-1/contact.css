@@ -44,14 +44,11 @@ nav li:first-child {
     }
 
     div h2 {
-       
+       background-color: red;
+       text-align: center;
     }
 
     div p {
-
+       background-color: green;
+           
     }
-
-    h2 strong {
-        color: palevioletred;
-    }
-aca[oa]

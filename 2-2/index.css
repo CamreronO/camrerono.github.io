@@ -40,13 +40,15 @@ nav ul {
   
   div {
     background-color: #FFA500;
-   border: 15px orangered;
-   margin: auto;
+    
   }
   
-  div h2 {
+  div {
     background-color: #FFA500;
+    border: 2px solid orangered;
+    margin: auto;
   }
+  
   
   div p {
     margin-left: 20px;

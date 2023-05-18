@@ -1,5 +1,8 @@
-.gradully-darkening-text {
-    background: linear-gradient(to right, #000, #000 50%, #fff 50%, #fff);
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
+.fade-text {
+    color: black;
+    transition: color 1s;
+}
+
+.fade-text:hover {
+    color: rgba(0, 0, 0, 0);
 }

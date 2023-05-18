@@ -46,9 +46,10 @@ nav li:first-child {
     div h2 {
        background-color: red;
        text-align: center;
+       color: #6E0D25;
     }
 
     div p {
        background-color: green;
-           
+        color: #0B6E4F;
     }

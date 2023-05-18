@@ -1,0 +1,5 @@
+.gradully-darkening-text {
+    background: linear-gradient(to right, #000, #000 50%, #fff 50%, #fff);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}

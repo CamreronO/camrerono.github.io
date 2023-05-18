@@ -22,6 +22,10 @@ nav li {
   text-decoration: none;
 }
 
+nav li:hover a {
+  text-decoration: underline;
+}
+
 nav li:first-child {
   margin-left: 0;
 }
@@ -31,7 +35,7 @@ nav ul li:last-child {
 }
 
 nav {
-  border-bottom: 1px solid #000;
+background-color: rgba(255, 166, 0, 0.61);
 }
 
 div {

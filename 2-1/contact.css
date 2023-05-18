@@ -20,7 +20,7 @@ nav li a {
   }
 
   nav li:hover a {
-    text-decoration: none;
+    text-decoration: underline;
   }
   
   nav li {
@@ -36,7 +36,7 @@ nav li:first-child {
   }
 
   nav {
-    border-bottom: 1px solid #000;
+
     }
 
     div {

@@ -36,8 +36,12 @@ nav li:first-child {
     margin-left: auto;
   }
 
+  nav li:hover a {
+    text-decoration: underline;
+  }
+
   nav {
-    border-bottom: 1px solid #000;
+    background-color: darkblue;
     }
   
     div {

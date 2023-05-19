@@ -54,7 +54,7 @@ nav li:first-child {
         color: #00d491e1;
         text-align: center;
     }
-    
+
     form {
       width: 300px;
       margin: 0 auto;
@@ -78,3 +78,14 @@ nav li:first-child {
       background-color: #45a049;
     }
     
+    #name {
+      float: left;
+    }
+
+    #email {
+      text-align: center;
+    }
+
+    #message {
+      float: right;
+    }

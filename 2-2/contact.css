@@ -60,6 +60,11 @@ nav li:first-child {
       margin: 0;
     }
     
+    .contact-info {
+      border-bottom: 2px solid rgb(3, 44, 3);
+      padding-bottom: 10px;
+    }
+    
     
 
     form {

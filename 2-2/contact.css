@@ -53,7 +53,7 @@ nav li:first-child {
     }
     
     .info p {
-      background-color: green;
+      background-color: red;
       color: #00d491e1;
       text-align: center;
       padding: 0;

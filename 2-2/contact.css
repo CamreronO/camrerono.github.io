@@ -86,7 +86,7 @@ nav li:first-child {
       background-color: #45a049;
     }
 
-    p {
+    .contact-info {
       background-color: red;
       color: #6E0D25;
       padding: 0;

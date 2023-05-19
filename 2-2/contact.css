@@ -77,9 +77,5 @@ nav li:first-child {
     input[type="submit"]:hover {
       background-color: #45a049;
     }
-    
-    #name, #email, #message {
-      display: block;
-      margin-bottom: 10px;
-    }
+
     

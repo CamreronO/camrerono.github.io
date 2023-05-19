@@ -46,17 +46,18 @@ nav li:first-child {
     }
 
     div h2 {
-       background-color: red;
-       color: #6E0D25;
-       border: 2px solid red;
+      background-color: red;
+      color: #6E0D25;
+      border: 2px solid red;
     }
-
+    
     div p {
-       background-color: green;
-        color: #00d491e1;
-        text-align: center;
-        border: 2px solid green;
+      background-color: green;
+      color: #00d491e1;
+      text-align: center;
+      border: 2px solid green;
     }
+    
 
     form {
       width: 300px;

@@ -60,10 +60,6 @@ nav li:first-child {
       margin: 0;
     }
     
-    .contact-info {
-      border-bottom: 2px solid rgb(3, 44, 3);
-      padding-bottom: 10px;
-    }
     
     
 
@@ -90,7 +86,7 @@ nav li:first-child {
       background-color: #45a049;
     }
 
-    .form-text {
+    p {
       background-color: red;
       color: #6E0D25;
       padding: 0;

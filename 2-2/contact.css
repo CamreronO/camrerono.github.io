@@ -81,11 +81,12 @@ nav li:first-child {
     #name {
       float: left;
     }
-
+    
     #email {
       text-align: center;
     }
-
+    
     #message {
       float: right;
     }
+    

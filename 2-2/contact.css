@@ -83,4 +83,8 @@ nav li:first-child {
       background-color: #45a049;
     }
 
-    
+    .form-text {
+      background-color: red;
+      color: #6E0D25;
+      border: 2px solid red;
+    }

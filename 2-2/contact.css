@@ -54,3 +54,27 @@ nav li:first-child {
         color: #00d491e1;
         text-align: center;
     }
+    
+    form {
+      width: 300px;
+      margin: 0 auto;
+    }
+    
+    label, input, textarea {
+      display: block;
+      margin-bottom: 10px;
+    }
+    
+    input[type="submit"] {
+      background-color: #4CAF50;
+      color: white;
+      padding: 10px 15px;
+      border: none;
+      border-radius: 4px;
+      cursor: pointer;
+    }
+    
+    input[type="submit"]:hover {
+      background-color: #45a049;
+    }
+    

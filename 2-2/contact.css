@@ -78,15 +78,8 @@ nav li:first-child {
       background-color: #45a049;
     }
     
-    #name {
-      float: left;
-    }
-    
-    #email {
-      text-align: center;
-    }
-    
-    #message {
-      float: right;
+    #name, #email, #message {
+      display: block;
+      margin-bottom: 10px;
     }
     

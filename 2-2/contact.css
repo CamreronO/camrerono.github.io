@@ -54,15 +54,15 @@ nav li:first-child {
     
     .info p {
       background-color: red;
-      color: #00d491e1;
+      color: #6E0D25;
       text-align: center;
       padding: 0;
       margin: 0;
     }
     
     .contact-info {
-      background-color: red;
-      color: #00d491e1;
+      background-color: green;
+      color: greenyellow;
       text-align: center;
       padding: 0;
       margin: 0;

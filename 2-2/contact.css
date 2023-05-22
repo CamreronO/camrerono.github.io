@@ -71,6 +71,7 @@ nav li:first-child {
     form {
       width: 300px;
       margin: 0 auto;
+      background-color: green;
     }
     
     label, input, textarea {
@@ -88,7 +89,7 @@ nav li:first-child {
     }
     
     input[type="submit"]:hover {
-      background-color: #45a049;
+      background-color: red;
     }
 
     .contact-info {

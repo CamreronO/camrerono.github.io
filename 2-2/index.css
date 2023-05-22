@@ -43,13 +43,13 @@ nav ul {
     border: 3px solid #ffd700;
   }
 
-  div h1 {
+  div h1, div h2 {
     border-bottom: 1px solid #000;
   }
   
+  
   div h2 {
     background-color: #FFA500;
-    border-bottom: 1px solid #000;
   }
   
   div p {

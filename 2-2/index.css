@@ -45,11 +45,13 @@ nav ul {
   
   div h2 {
     background-color: #FFA500;
+    border-bottom: 1px solid #000;
   }
   
   div p {
     margin-left: 20px;
     color: #FFC266;
+    border-bottom: 1px solid #000;
   }
   
   div ul {

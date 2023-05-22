@@ -70,6 +70,7 @@ nav li:first-child {
 
     form {
       width: 300px;
+      margin-left: 50px;
       margin: 0 auto;
       background-color: green;
       width: 100%;

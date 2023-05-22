@@ -10,14 +10,12 @@ nav ul {
   nav li {
     display: inline-block;
     margin: 0;
-    padding: 15px;
   }
   
   nav li a {
     color: white;
     text-decoration: none;
     font-size: 25px;
-    padding: 15px;
   }
   
   nav li {

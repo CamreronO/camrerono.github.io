@@ -3,29 +3,33 @@
     margin: 0;
     padding: 0;
     display: flex;
-    justify-content: flex-start;
+    justify-content: space-between;
     align-items: center;
-}
+  }
+  
+  .main-menu li {
+    display: inline-block;
+    margin: 0 10px;
+  }
 
-.main-menu li {
-    margin-left: auto;
-    margin-right: 10px; 
-}
+    .main-menu .portfolio {
+      margin-left: auto; 
+   }
 
-.main-menu {
-    background-color: rgba(255, 166, 0, 0.61);
-}
-
-.main-menu li a {
+  .main-menu {
+     background-color: rgba(255, 166, 0, 0.61);
+  }
+  
+  .main-menu li a {
     color: white;
     text-decoration: none;
     font-size: 25px;
-}
+  }
 
-div {
+  div {
     background-color: orange;
-}
+  }
 
-div h1 {
+  div h1 {
     border-bottom: 1px solid #000;
-}
+  }

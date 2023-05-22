@@ -53,9 +53,8 @@ nav li:first-child {
       background-color: red;
       color: #6E0D25;
       padding: 0;
-      margin: 0;
-      border-bottom: 3px solid #000;
       margin-right: 50px;
+      border-bottom: 3px solid #000;
     }
     
     .contact-info p {

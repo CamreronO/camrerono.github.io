@@ -1,4 +1,4 @@
-.main-menu ul {
+nav ul {
     list-style: none;
     margin: 0;
     padding: 0;
@@ -7,29 +7,61 @@
     align-items: center;
   }
   
-  .main-menu li {
+  nav li {
     display: inline-block;
     margin: 0 10px;
   }
-
-    .main-menu .portfolio {
-      margin-left: auto; 
-   }
-
-  .main-menu {
-     background-color: rgba(255, 166, 0, 0.61);
-  }
   
-  .main-menu li a {
+  nav li a {
     color: white;
     text-decoration: none;
     font-size: 25px;
   }
-
+  
+  nav li {
+    text-decoration: none;
+  }
+  
+  nav li:hover a {
+    text-decoration: underline;
+  }
+  
+  nav li:first-child {
+    margin-left: 0;
+  }
+  
+  nav ul li:last-child {
+    margin-left: auto;
+  }
+  
+  nav {
+  background-color: rgba(255, 166, 0, 0.61);
+  }
+  
   div {
-    background-color: orange;
+    background-color: #FFA500;
+    border: 3px solid #ffd700;
   }
 
-  div h1 {
+  div h2, div h1 {
     border-bottom: 1px solid #000;
+  }  
+  
+  
+  div h2 {
+    background-color: #FFA500;
   }
+  
+  div p {
+    margin-left: 20px;
+    color: #FFC266;
+  }
+  
+  div ul {
+    list-style-type: none;
+  }
+  
+  div ul li {
+    color: #FFC266;
+  }
+  

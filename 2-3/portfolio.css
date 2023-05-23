@@ -11,10 +11,6 @@ nav ul {
     display: inline-block;
     margin: 0;
   }
-
-  nav ul li.home {
-    margin-right: 25px;
-  }
   
   nav li a {
     color: white;
@@ -34,9 +30,14 @@ nav ul {
     margin-left: 0;
   }
   
+  nav li:nth-child(2) {
+    margin-right: 20px;
+  }
+  
   nav ul li:last-child {
     margin-left: auto;
   }
+  
   
   nav {
     background-color: darkblue;

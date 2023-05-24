@@ -45,6 +45,24 @@
     top: 4094px;
 }
 
+.Group-2 {
+    position: absolute;
+    width: 39.6px;
+    height: 39.6px;
+    left: 652px;
+    top: 4133.6px;
+    transform: rotate(-90deg);
+}
+
+.Group-for-Group-2 {
+    position: absolute;
+    width: 28px;
+    height: 28px;
+    left: 671.8px;
+    top: 4133.6px;
+    transform: rotate(-135deg);
+}
+
 .Group-8-1 {
     /*This is the group for Group 8.1**/
     position: absolute;

@@ -5,6 +5,7 @@
     height: 54px;
     left: 1027px;
     top: 1982px;
+    text-align: center;
      
     position: absolute;
 width: 151px;
@@ -33,3 +34,62 @@ top: 1982px;
 background: #031CFF;
 border-radius: 100px;
 }
+
+.copyright {
+    position: absolute;
+left: 30.49%;
+right: 30.42%;
+top: 98.69%;
+bottom: 0.3%;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 16px;
+text-align: center;
+
+color: #9597A6;
+
+}
+
+.Group-8-1 {
+    position: absolute;
+    width: 123px;
+    height: 40px;
+    left: 652px;
+    top: 4094px;
+}
+
+.Group-2 {
+    position: absolute;
+    width: 39.6px;
+    height: 39.6px;
+    left: 652px;
+    top: 4133.6px;
+    
+    transform: rotate(-90deg);
+}
+
+.Group-for-Group-2 {
+    position: absolute;
+    width: 28px;
+    height: 28px;
+    left: 671.8px;
+    top: 4133.6px;
+    
+    transform: rotate(-135deg);
+}
+
+.Rectangle-5-2 {
+    position: absolute;
+width: 14px;
+height: 14px;
+left: 652px;
+top: 4113.8px;
+
+background: #F24F2B;
+mix-blend-mode: multiply;
+transform: matrix(0.71, 0.71, 0.71, -0.71, 0, 0);
+}
+

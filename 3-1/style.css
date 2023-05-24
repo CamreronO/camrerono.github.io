@@ -1,12 +1,35 @@
-div { 
-    
-}
 
-div h2 {
+.Group {
     position: absolute;
     width: 251px;
     height: 54px;
     left: 1027px;
     top: 1982px;
      
+    position: absolute;
+width: 151px;
+height: 22px;
+left: 1076px;
+top: 1998px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 900;
+font-size: 18px;
+line-height: 21px;
+
+color: #FFFFFF;
+
+border-radius: 100px;
+
+box-sizing: border-box;
+
+position: absolute;
+width: 251px;
+height: 54px;
+left: 1027px;
+top: 1982px;
+
+background: #031CFF;
+border-radius: 100px;
 }

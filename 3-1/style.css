@@ -1,56 +1,40 @@
-
 .Group {
     position: absolute;
     width: 251px;
     height: 54px;
     left: 1027px;
     top: 1982px;
-    text-align: center;
-     
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 18px;
+    line-height: 21px;
+    color: #FFFFFF;
+    border-radius: 100px;
+    background: #031CFF;
+}
+
+.Group h3 {
     position: absolute;
-width: 151px;
-height: 22px;
-left: 1076px;
-top: 1998px;
-
-font-family: 'Roboto';
-font-style: normal;
-font-weight: 900;
-font-size: 18px;
-line-height: 21px;
-
-color: #FFFFFF;
-
-border-radius: 100px;
-
-box-sizing: border-box;
-
-position: absolute;
-width: 251px;
-height: 54px;
-left: 1027px;
-top: 1982px;
-
-background: #031CFF;
-border-radius: 100px;
+    width: 151px;
+    height: 22px;
+    left: 1076px;
+    top: 1998px;
 }
 
 .copyright {
     position: absolute;
-left: 30.49%;
-right: 30.42%;
-top: 98.69%;
-bottom: 0.3%;
-
-font-family: 'Roboto';
-font-style: normal;
-font-weight: 400;
-font-size: 14px;
-line-height: 16px;
-text-align: center;
-
-color: #9597A6;
-
+    left: 30.49%;
+    right: 30.42%;
+    top: 98.69%;
+    bottom: 0.3%;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 16px;
+    text-align: center;
+    color: #9597A6;
 }
 
 .Group-8-1 {
@@ -67,7 +51,6 @@ color: #9597A6;
     height: 39.6px;
     left: 652px;
     top: 4133.6px;
-    
     transform: rotate(-90deg);
 }
 
@@ -77,19 +60,16 @@ color: #9597A6;
     height: 28px;
     left: 671.8px;
     top: 4133.6px;
-    
     transform: rotate(-135deg);
 }
 
 .Rectangle-5-2 {
     position: absolute;
-width: 14px;
-height: 14px;
-left: 652px;
-top: 4113.8px;
-
-background: #F24F2B;
-mix-blend-mode: multiply;
-transform: matrix(0.71, 0.71, 0.71, -0.71, 0, 0);
+    width: 14px;
+    height: 14px;
+    left: 652px;
+    top: 4113.8px;
+    background: #F24F2B;
+    mix-blend-mode: multiply;
+    transform: matrix(0.71, 0.71, 0.71, -0.71, 0, 0);
 }
-

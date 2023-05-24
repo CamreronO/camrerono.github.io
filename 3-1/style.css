@@ -63,20 +63,27 @@
     transform: rotate(-135deg);
 }
 
-.Rectangle-5-2 {
+.Group-8-1 {
+    /*This is the group for Group 8.1**/
     position: absolute;
-    width: 14px;
-    height: 14px;
-    left: 652px;
-    top: 4113.8px;
-    
-    background: rgba(242, 79, 43, 1);
-    mix-blend-mode: multiply;
-    transform: matrix(0.71, 0.71, 0.71, -0.71, 0, 0);
-  }
-  
-  .Rectangle-5-3 {
-    position: absolute;
+width: 39.6px;
+height: 39.6px;
+left: 652px;
+top: 4133.6px;
+
+transform: rotate(-90deg);
+
+position: absolute;
+width: 14px;
+height: 14px;
+left: 652px;
+top: 4113.8px;
+
+background: rgba(242, 79, 43, 1);
+mix-blend-mode: multiply;
+transform: matrix(0.71, 0.71, 0.71, -0.71, 0, 0);
+
+position: absolute;
 width: 14px;
 height: 14px;
 left: 691.6px;
@@ -85,31 +92,27 @@ top: 4113.8px;
 background: rgba(31, 188, 250, 1);
 mix-blend-mode: multiply;
 transform: matrix(-0.71, -0.71, -0.71, 0.71, 0, 0);
-  }
-  
-  .Rectangle-5-1 {
-    position: absolute;
-    width: 14px;
-    height: 14px;
-    left: 671.8px;
-    top: 4094px;
-    
-    background: rgba(25, 207, 135, 1);
-    mix-blend-mode: multiply;
-    transform: rotate(45deg);
-  }
-  
-  .Rectangle-5 {
-    position: absolute;
-    width: 14px;
-    height: 14px;
-    left: 671.8px;
-    top: 4133.6px;
-    
-    background: rgba(161, 89, 249, 1);
-    mix-blend-mode: multiply;
-    transform: rotate(-135deg)
-  }
+
+position: absolute;
+width: 14px;
+height: 14px;
+left: 671.8px;
+top: 4094px;
+
+background: rgba(25, 207, 135, 1);
+mix-blend-mode: multiply;
+transform: rotate(45deg);
+
+position: absolute;
+width: 14px;
+height: 14px;
+left: 671.8px;
+top: 4133.6px;
+
+background: rgba(161, 89, 249, 1);
+mix-blend-mode: multiply;
+transform: rotate(-135deg);
+}
   
 
 

@@ -1,9 +1,28 @@
-.Group {
+.group {
     position: absolute;
     width: 251px;
     height: 54px;
     left: 1027px;
     top: 1982px;
+  }
+  
+  .rectangle-4 {
+    box-sizing: border-box;
+    position: absolute;
+    width: 251px;
+    height: 54px;
+    left: 1027px;
+    top: 1982px;
+    background: #031CFF;
+    border-radius: 100px;
+  }
+  
+  .discover-adventure {
+    position: absolute;
+    width: 151px;
+    height: 22px;
+    left: 1076px;
+    top: 1998px;
     font-family: 'Roboto';
     font-style: normal;
     font-weight: 900;
@@ -11,131 +30,5 @@
     line-height: 21px;
     color: #FFFFFF;
     border-radius: 100px;
-    background: #031CFF;
-}
-
-.discover-adventure h3 {
-    position: absolute;
-    width: 151px;
-    height: 22px;
-    left: 1076px;
-    top: 1998px;
-}
-
-.copyright {
-    position: absolute;
-    left: 30.49%;
-    right: 30.42%;
-    top: 98.69%;
-    bottom: 0.3%;
-    font-family: 'Roboto';
-    font-style: normal;
-    font-weight: 400;
-    font-size: 14px;
-    line-height: 16px;
-    text-align: center;
-    color: #9597A6;
-}
-
-
-
-
-.Group-8-1 {
-    position: absolute;
-    width: 123px;
-    height: 40px;
-    left: 652px;
-    top: 4094px;
-}
-
-.Group-2 {
-    position: absolute;
-    width: 39.6px;
-    height: 39.6px;
-    left: 652px;
-    top: 4133.6px;
-    transform: rotate(-90deg);
-}
-
-.Group {
-    position: absolute;
-    width: 28px;
-    height: 28px;
-    left: 671.8px;
-    top: 4133.6px;
-    transform: rotate(-135deg);
-}
-
-.Rectangle-5-2 {
-    position: absolute;
-    width: 14px;
-    height: 14px;
-    left: 652px;
-    top: 4113.8px;
-    background: #F24F2B;
-    mix-blend-mode: multiply;
-    transform: matrix(0.71, 0.71, 0.71, -0.71, 0, 0);
-}
-
-.Rectangle-5-3 {
-    position: absolute;
-    width: 14px;
-    height: 14px;
-    left: 691.6px;
-    top: 4113.8px;
-    background: #1FBCFA;
-    mix-blend-mode: multiply;
-    transform: matrix(-0.71, -0.71, -0.71, 0.71, 0, 0);
-}
-
-.Rectangle-5-1 {
-    position: absolute;
-    width: 14px;
-    height: 14px;
-    left: 671.8px;
-    top: 4094px;
-    background: #19CF87;
-    mix-blend-mode: multiply;
-    transform: rotate(45deg);
-}
-
-.Rectangle-5 {
-    position: absolute;
-    width: 14px;
-    height: 14px;
-    left: 671.8px;
-    top: 4133.6px;
-    background: #A159F9;
-    mix-blend-mode: multiply;
-    transform: rotate(-135deg);
-}
-
-
-
-
-
-  .GoFig {
-    position: absolute;
-width: 75px;
-height: 36px;
-left: 700px;
-top: 4098px;
-
-font-family: 'Campton';
-font-size: 25.886px;
-line-height: 30px;
-
-color: #0B0E2D;
   }
-
-
-.Rectangle {
-    position: absolute;
-width: 1646px;
-height: 488px;
-left: -119px;
-top: 4055px;
-
-background: #FFFFFF;
-  }
-
+  

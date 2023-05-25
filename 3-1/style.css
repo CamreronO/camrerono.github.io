@@ -1018,3 +1018,97 @@
     background: radial-gradient(57.89% 57.89% at 50% 50%, #FFFFFF 0%, rgba(11, 14, 45, 0) 100%);
   }
   
+  .more-exploration {
+    position: absolute;
+    visibility: hidden;
+    width: 205px;
+    height: 94px;
+    left: 261px;
+    top: 1917px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 40px;
+    line-height: 47px;
+    color: #FEFEFE;
+  }
+  
+  .more-to-explore {
+    position: absolute;
+    width: 250px;
+    height: 75px;
+    left: 246px;
+    top: 1983px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 32px;
+    line-height: 38px;
+    letter-spacing: 0.5em;
+    text-transform: uppercase;
+    color: #FEFEFE;
+  }
+  
+  .paragraph {
+    position: absolute;
+    width: 382px;
+    height: 79px;
+    left: 555px;
+    top: 1982px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    color: #FFFFFF;
+  }
+  
+  .group-7 {
+    position: absolute;
+    width: 28px;
+    height: 361px;
+    left: 50px;
+    top: 623px;
+  }
+  
+  .connect {
+    position: absolute;
+    width: 185px;
+    height: 17px;
+    left: 55px;
+    top: 808px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 14px;
+    line-height: 16px;
+    letter-spacing: 0.5em;
+    text-transform: uppercase;
+    color: #031CFF;
+    transform: rotate(-90deg);
+  }
+  
+  .twitter-icon,
+  .facebook-icon,
+  .youtube-icon {
+    position: absolute;
+    width: 28px;
+    height: 23px;
+    left: 50px;
+  }
+  
+  .twitter-icon {
+    top: 843px;
+    background: #031CFF;
+  }
+  
+  .facebook-icon {
+    top: 901px;
+    opacity: 0.2;
+  }
+  
+  .youtube-icon {
+    top: 964px;
+    background: #CCCCCC;
+  }
+  

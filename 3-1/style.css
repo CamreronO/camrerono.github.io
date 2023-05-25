@@ -32,3 +32,101 @@
     border-radius: 100px;
   }
   
+  .copyright {
+    position: absolute;
+    left: 30.49%;
+    right: 30.42%;
+    top: 98.69%;
+    bottom: 0.3%;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 16px;
+    text-align: center;
+    color: #9597A6;
+  }
+  
+  .group-8-1 {
+    position: absolute;
+    width: 123px;
+    height: 40px;
+    left: 652px;
+    top: 4094px;
+  }
+  
+  .go-fig {
+    position: absolute;
+    width: 75px;
+    height: 36px;
+    left: 700px;
+    top: 4098px;
+    font-family: 'Campton';
+    font-size: 25.886px;
+    line-height: 30px;
+    color: #0B0E2D;
+  }
+  
+  .group-2 {
+    position: absolute;
+    width: 39.6px;
+    height: 39.6px;
+    left: 652px;
+    top: 4133.6px;
+    transform: rotate(-90deg);
+  }
+  
+  .group {
+    position: absolute;
+    width: 28px;
+    height: 28px;
+    left: 671.8px;
+    top: 4133.6px;
+    transform: rotate(-135deg);
+  }
+  
+  .rectangle-5 {
+    position: absolute;
+    width: 14px;
+    height: 14px;
+    left: 671.8px;
+    top: 4133.6px;
+    background: #A159F9;
+    mix-blend-mode: multiply;
+    transform: rotate(-135deg);
+  }
+  
+  .rectangle-5-1 {
+    position: absolute;
+    width: 14px;
+    height: 14px;
+    left: 671.8px;
+    top: 4094px;
+    background: #19CF87;
+    mix-blend-mode: multiply;
+    transform: rotate(45deg);
+  }
+  
+  .rectangle-5-3 {
+    position: absolute;
+    width: 14px;
+    height: 14px;
+    left: 691.6px;
+    top: 4113.8px;
+    background: #1FBCFA;
+    mix-blend-mode: multiply;
+    transform: matrix(-0.71, -0.71, -0.71, 0.71, 0, 0);
+  }
+  
+  .rectangle-5-2 {
+    position: absolute;
+    width: 14px;
+    height: 14px;
+    left: 652px;
+    top: 4113.8px;
+    background: #F24F2B;
+    mix-blend-mode: multiply;
+    transform: matrix(0.71, 0.71, 0.71, -0.71, 0, 0);
+  }
+  
+  

@@ -907,3 +907,114 @@
     transform: rotate(-45deg);
   }
   
+  .quotation-mark {
+    position: absolute;
+    left: 42.85%;
+    right: 42.22%;
+    top: 55.51%;
+    bottom: 41.1%;
+    background: #E8E8EA;
+    opacity: 0.3;
+  }
+  
+  .rectangle-6 {
+    position: absolute;
+    width: 514px;
+    height: 203px;
+    left: 1440px;
+    top: 2464px;
+    background: linear-gradient(180deg, #CE9671 20.79%, rgba(206, 150, 113, 0) 100%);
+    background-blend-mode: screen;
+    opacity: 0.6;
+    transform: rotate(-180deg);
+  }
+  
+  .union {
+    position: absolute;
+    width: 303px;
+    height: 266px;
+    left: 360px;
+    top: 1468px;
+    background: radial-gradient(57.89% 57.89% at 50% 50%, #0B0D2B 0%, rgba(11, 14, 45, 0) 100%);
+  }
+  
+  .mask-group {
+    position: absolute;
+    width: 514px;
+    height: 352px;
+    left: 926px;
+    top: 1984px;
+  }
+  
+  .mask-group .rectangle-7 {
+    position: absolute;
+    width: 514px;
+    height: 352px;
+    left: 926px;
+    top: 1984px;
+    background: #C4C4C4;
+  }
+  
+  .mask-group .image-03141558877571 {
+    position: absolute;
+    width: 514px;
+    height: 367px;
+    left: 926px;
+    top: 1985px;
+    background: url(03141558877571);
+  }
+  
+  .group-12 {
+    position: absolute;
+    width: 1154px;
+    height: 266px;
+    left: 143px;
+    top: 3035px;
+    opacity: 0.4;
+  }
+  
+  .group-12 .group-12-item {
+    position: absolute;
+    width: 303px;
+    height: 266px;
+    left: 994px;
+    top: 3035px;
+    background: radial-gradient(57.89% 57.89% at 50% 50%, #FFFFFF 0%, rgba(11, 14, 45, 0) 100%);
+  }
+  
+  .group-12 .union-1 {
+    position: absolute;
+    width: 303px;
+    height: 266px;
+    left: 698px;
+    top: 3035px;
+    background: radial-gradient(57.89% 57.89% at 50% 50%, #FFFFFF 0%, rgba(11, 14, 45, 0) 100%);
+  }
+  
+  .group-12 .union-2 {
+    position: absolute;
+    width: 303px;
+    height: 266px;
+    left: 439px;
+    top: 3035px;
+    background: radial-gradient(57.89% 57.89% at 50% 50%, #FFFFFF 0%, rgba(11, 14, 45, 0) 100%);
+  }
+  
+  .group-12 .union-3 {
+    position: absolute;
+    width: 303px;
+    height: 266px;
+    left: 143px;
+    top: 3035px;
+    background: radial-gradient(57.89% 57.89% at 50% 50%, #FFFFFF 0%, rgba(11, 14, 45, 0) 100%);
+  }
+  
+  .union {
+    position: absolute;
+    width: 303px;
+    height: 266px;
+    left: 111px;
+    top: 2075px;
+    background: radial-gradient(57.89% 57.89% at 50% 50%, #FFFFFF 0%, rgba(11, 14, 45, 0) 100%);
+  }
+  

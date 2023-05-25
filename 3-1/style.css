@@ -322,7 +322,7 @@
     color: #9597A6;
   }
   
-  .group-11 {
+  .group-12 {
     position: absolute;
     width: 274px;
     height: 270px;
@@ -330,7 +330,7 @@
     top: 3118px;
   }
   
-  .rectangle-5 {
+  .rectangle-52 {
     position: absolute;
     left: 0%;
     right: 0%;
@@ -340,7 +340,7 @@
     box-shadow: 0px 15.5651px 194.563px rgba(0, 0, 0, 0.15);
   }
   
-  .rating-stars {
+  .rating-stars2 {
     position: absolute;
     left: 38.92%;
     right: 37.5%;
@@ -353,27 +353,27 @@
     background: #031CFE;
   }
   
-  .star.star1 {
+  .star.star5 {
     left: 38.92%;
     right: 56.9%;
   }
   
-  .star.star2 {
+  .star.star6 {
     left: 43.8%;
     right: 52.03%;
   }
   
-  .star.star3 {
+  .star.star7 {
     left: 48.67%;
     right: 47.15%;
   }
   
-  .star.star4 {
+  .star.star8 {
     left: 53.55%;
     right: 42.27%;
   }
   
-  .intersect {
+  .intersect2 {
     position: absolute;
     left: 58.52%;
     right: 37.5%;
@@ -382,7 +382,7 @@
     background: #031CF9;
   }
   
-  .mask-group {
+  .mask-group2 {
     position: absolute;
     left: 37.5%;
     right: 38.07%;
@@ -390,7 +390,7 @@
     bottom: 75.22%;
   }
   
-  .ellipse {
+  .ellipse2 {
     position: absolute;
     left: 37.5%;
     right: 38.07%;
@@ -399,7 +399,7 @@
     background: #C4C4C4;
   }
   
-  .image-2 {
+  .image-22 {
     position: absolute;
     left: 36.93%;
     right: 36.93%;
@@ -423,7 +423,7 @@
     color: #0B0E2D;
   }
   
-  .review-text {
+  .review-text2 {
     position: absolute;
     left: 10.8%;
     right: 12.22%;
@@ -1110,5 +1110,67 @@
   .youtube-icon {
     top: 964px;
     background: #CCCCCC;
+  }
+
+  .list-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 20px;
+  }
+  
+  .list-item {
+    background-color: #f2f2f2;
+    padding: 20px;
+    border-radius: 5px;
+  }
+  
+  .image-2 {
+    background-image: url("image.jpg"); /* Replace "image.jpg" with your image URL */
+    background-size: cover;
+    width: 100%;
+    height: 200px;
+    border-radius: 5px;
+  }
+  
+  .cliffs-of-ireland {
+    font-size: 18px;
+    font-weight: bold;
+    margin: 10px 0;
+  }
+  
+  .vector {
+    background-image: url("vector.svg"); /* Replace "vector.svg" with your vector icon URL */
+    background-size: cover;
+    width: 20px;
+    height: 20px;
+  }
+  
+  .description {
+    font-size: 14px;
+    margin: 10px 0;
+  }
+  
+  .icon-heart {
+    background-image: url("heart.svg"); /* Replace "heart.svg" with your heart icon URL */
+    background-size: cover;
+    width: 20px;
+    height: 20px;
+  }
+  
+  .heart-count {
+    font-size: 14px;
+    margin-left: 5px;
+  }
+  
+  .icon-comments {
+    background-image: url("comments.svg"); /* Replace "comments.svg" with your comments icon URL */
+    background-size: cover;
+    width: 20px;
+    height: 20px;
+  }
+  
+  .comment-count {
+    font-size: 14px;
+    margin-left: 5px;
   }
   

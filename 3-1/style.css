@@ -206,3 +206,114 @@
     color: #FEFEFE;
   }
   
+  .group-11 {
+    position: absolute;
+    width: 274px;
+    height: 270px;
+    left: 1061px;
+    top: 2982px;
+  }
+  
+  .rectangle-5 {
+    position: absolute;
+    left: 0%;
+    right: 0%;
+    top: 12.39%;
+    bottom: 0%;
+    background: #FFFFFF;
+    box-shadow: 0px 15.5651px 194.563px rgba(0, 0, 0, 0.15);
+  }
+  
+  .rating-stars {
+    position: absolute;
+    left: 38.92%;
+    right: 37.5%;
+    top: 46.03%;
+    bottom: 49.65%;
+  }
+  
+  .star {
+    position: absolute;
+    background: #031CFE;
+  }
+  
+  .star:nth-child(2) {
+    left: 43.8%;
+    right: 52.03%;
+  }
+  
+  .star:nth-child(3) {
+    left: 48.67%;
+    right: 47.15%;
+  }
+  
+  .star:nth-child(4) {
+    left: 53.55%;
+    right: 42.27%;
+  }
+  
+  .intersect {
+    position: absolute;
+    left: 58.52%;
+    right: 37.5%;
+    top: 46.03%;
+    bottom: 50.06%;
+    background: #CFCFCF;
+  }
+  
+  .mask-group {
+    position: absolute;
+    left: 37.5%;
+    right: 38.07%;
+    top: 0%;
+    bottom: 75.22%;
+  }
+  
+  .ellipse {
+    position: absolute;
+    left: 37.5%;
+    right: 38.07%;
+    top: 0%;
+    bottom: 75.22%;
+    background: #C4C4C4;
+  }
+  
+  .image-2 {
+    position: absolute;
+    left: 36.93%;
+    right: 36.93%;
+    top: -0.29%;
+    bottom: 73.78%;
+    background: url(image.png);
+  }
+  
+  .lauren-montane {
+    position: absolute;
+    left: 21.02%;
+    right: 21.31%;
+    top: 31.82%;
+    bottom: 59.82%;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 18.6781px;
+    line-height: 22px;
+    text-align: center;
+    color: #0B0E2D;
+  }
+  
+  .review-text {
+    position: absolute;
+    left: 10.8%;
+    right: 12.22%;
+    top: 59.32%;
+    bottom: 22.23%;
+    font-family: 'Roboto';
+    font-style: italic;
+    font-weight: 400;
+    font-size: 17.8998px;
+    line-height: 21px;
+    text-align: center;
+    color: #9597A6;
+  }
+  

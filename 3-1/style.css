@@ -1174,3 +1174,93 @@
     margin-left: 5px;
   }
   
+  .Group-8 {
+    
+position: absolute;
+width: 123px;
+height: 40px;
+left: 79px;
+top: 30px;
+  }
+
+  .GoFig2 {
+    position: absolute;
+width: 75px;
+height: 36px;
+left: 127px;
+top: 34px;
+
+font-family: 'Campton';
+font-size: 25.886px;
+line-height: 30px;
+
+color: #3D3D3D;
+  }
+
+  .Group-22 {
+    position: absolute;
+width: 39.6px;
+height: 39.6px;
+left: 79px;
+top: 69.6px;
+
+transform: rotate(-90deg);
+  }
+
+  .Group2 {
+    position: absolute;
+width: 28px;
+height: 28px;
+left: 98.8px;
+top: 69.6px;
+
+transform: rotate(-135deg);
+  }
+
+  .Rectangle-53 {
+    position: absolute;
+width: 14px;
+height: 14px;
+left: 98.8px;
+top: 69.6px;
+
+background: #A159F9;
+mix-blend-mode: multiply;
+transform: rotate(-135deg);
+  }
+
+  .Rectanlge-5-12 {
+    position: absolute;
+width: 14px;
+height: 14px;
+left: 98.8px;
+top: 30px;
+
+background: #19CF87;
+mix-blend-mode: multiply;
+transform: rotate(45deg);
+  }
+
+  .Rectangle-32 {
+    position: absolute;
+width: 14px;
+height: 14px;
+left: 118.6px;
+top: 49.8px;
+
+background: #1FBCFA;
+mix-blend-mode: multiply;
+transform: matrix(-0.71, -0.71, -0.71, 0.71, 0, 0);
+  }
+
+  .Rectangle-5-22 {
+    position: absolute;
+width: 14px;
+height: 14px;
+left: 79px;
+top: 49.8px;
+
+background: #F24F2B;
+mix-blend-mode: multiply;
+transform: matrix(0.71, 0.71, 0.71, -0.71, 0, 0);
+  }

@@ -138,8 +138,8 @@ color: rgba(61, 61, 61, 1);
 }
 
 .car-img {
-    position: relative; /* Changed to relative positioning */
     width: 1360px;
+    position: relative; 
     height: 616px;
     left: 40px;
     top: 99px;
@@ -151,19 +151,13 @@ color: rgba(61, 61, 61, 1);
     position: absolute;
     width: 1360px;
     height: 202px;
-    left: 40px;
-    top: calc(99px + 616px - 202px); 
+    left: 1400px;
+    top: 99px; 
     background: linear-gradient(180deg, #CE9671 -0.5%, rgba(206, 150, 113, 0) 100%);
     background-blend-mode: screen;
     transform: rotate(-180deg);
     z-index: 2;
 }
-
-/* Rest of your CSS code... */
-
-
-/* Rest of your CSS code... */
-
 
 .go-places {
     position: absolute;

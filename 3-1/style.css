@@ -1264,6 +1264,15 @@ background: #F24F2B;
 mix-blend-mode: multiply;
 transform: matrix(0.71, 0.71, 0.71, -0.71, 0, 0);
   }
+  .my-element-rectangle {
+    position: absolute;
+    width: 1440px;
+    height: 726px;
+    left: 0px;
+    top: 1817px;
+    background: #0B0E2D;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  }
 
   .Line {
     position: absolute;
@@ -1358,5 +1367,99 @@ text-align: center;
 color: #031CFF;
 
 border-radius: 100px;
-
 }
+
+.Group-4 {
+    position: absolute;
+width: 523px;
+height: 54px;
+left: 341px;
+top: 526px;
+}
+
+.Group3 {
+    position: absolute;
+    width: 251px;
+    height: 54px;
+    left: 341px;
+    top: 526px;    
+}
+
+.Rectangle-4 {
+    position: absolute;
+width: 251px;
+height: 54px;
+left: 341px;
+top: 526px;
+
+background: #031CFF;
+border-radius: 100px;
+}
+
+.rectangle-3-1 {
+    position: absolute;
+    width: 191px;
+    height: 366px;
+    left: 311px;
+    top: 1509px;
+    background: linear-gradient(180deg, #0B0E2D 0%, rgba(206, 150, 113, 0) 100%);
+    background-blend-mode: screen;
+    transform: rotate(-180deg);
+  }
+  
+  .image2 {
+    position: absolute;
+    width: 516px;
+    height: 689px;
+    left: 120px;
+    top: 820px;
+    background: url(image.png);
+  }
+
+  .rectangle-3 {
+    position: absolute;
+    width: 1360px;
+    height: 202px;
+    left: 1400px;
+    top: 715px;
+    background: linear-gradient(180deg, #CE9671 -0.5%, rgba(206, 150, 113, 0) 100%);
+    background-blend-mode: screen;
+    transform: rotate(-180deg);
+  }
+  
+  .with-figma {
+    position: absolute;
+    width: 104px;
+    height: 22px;
+    left: 341px;
+    top: 443px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 21px;
+    color: #FFFFFF;
+  }
+  
+  .go-places {
+    position: absolute;
+    width: 358px;
+    height: 93px;
+    left: 341px;
+    top: 350px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 78.9191px;
+    line-height: 92px;
+    color: #FFFFFF;
+  }
+  
+  .rectangle-img {
+    position: absolute;
+    width: 1360px;
+    height: 616px;
+    left: 40px;
+    top: 99px;
+    background: url(image.png);
+  }

@@ -190,5 +190,15 @@ font-size: 18px;
 line-height: 21px;
 
 color: #FFFFFF;
+}
 
+.rectanlge-2 {
+    position: absolute;
+width: 420px;
+height: 747px;
+left: 980px;
+top: 99px;
+
+background: rgba(3, 28, 255, 1);
+mix-blend-mode: multiply;
 }

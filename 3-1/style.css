@@ -11,3 +11,38 @@ line-height: 14px;
 
 color: rgba(61, 61, 61, 1);
 }
+
+.rectangle4-1 {
+    box-sizing: border-box;
+
+position: absolute;
+width: 103px;
+height: 36px;
+left: 1291px;
+top: 34px;
+
+border: 1px solid rgba(3, 28, 255, 1);
+border-radius: 100px;
+}
+
+.sign-in {
+    position: absolute;
+width: 62.46px;
+height: 16.96px;
+left: 1310px;
+top: 43px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 900;
+font-size: 14px;
+line-height: 16px;
+/* identical to box height */
+
+text-align: center;
+
+color: rgba(3, 28, 255, 1);
+
+
+border-radius: 100px;
+}

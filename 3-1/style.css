@@ -139,6 +139,7 @@ color: rgba(61, 61, 61, 1);
 
 .car-img {
     position: relative; 
+    width: 1360px;
     height: 616px;
     left: 40px;
     top: 99px;
@@ -158,6 +159,8 @@ color: rgba(61, 61, 61, 1);
     z-index: 2;
 }
 
+
+
 .go-places {
     position: absolute;
 width: 358px;
@@ -173,4 +176,31 @@ line-height: 92px;
 /* identical to box height */
 
 color: rgba(255, 255, 255, 1);
+}
+
+.with-figma {
+    position: absolute;
+width: 104px;
+height: 22px;
+left: 341px;
+top: 443px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 21px;
+
+color: #FFFFFF;
+}
+
+.rectanlge-2 {
+    position: absolute;
+width: 420px;
+height: 747px;
+left: 980px;
+top: 99px;
+
+background: rgba(3, 28, 255, 1);
+mix-blend-mode: multiply;
 }

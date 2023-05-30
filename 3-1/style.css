@@ -138,7 +138,6 @@ color: rgba(61, 61, 61, 1);
 }
 
 .car-img {
-    width: 1360px;
     position: relative; 
     height: 616px;
     left: 40px;
@@ -151,7 +150,7 @@ color: rgba(61, 61, 61, 1);
     position: absolute;
     width: 1360px;
     height: 202px;
-    left: 44px;
+    left: 40px;
     top: calc(99px + 616px - 202px); 
     background: linear-gradient(180deg, #CE9671 -0.5%, rgba(206, 150, 113, 0) 100%);
     background-blend-mode: screen;
@@ -159,6 +158,19 @@ color: rgba(61, 61, 61, 1);
     z-index: 2;
 }
 
+.go-places {
+    position: absolute;
+width: 358px;
+height: 93px;
+left: 341px;
+top: 350px;
 
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 900;
+font-size: 78.9191px;
+line-height: 92px;
+/* identical to box height */
 
-
+color: rgba(255, 255, 255, 1);
+}

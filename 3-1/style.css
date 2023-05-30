@@ -152,12 +152,15 @@ color: rgba(61, 61, 61, 1);
     width: 1360px;
     height: 202px;
     left: 40px;
-    top: calc(99px + 616px - 202px);
+    bottom: 0;
     background: linear-gradient(180deg, #CE9671 -0.5%, rgba(206, 150, 113, 0) 100%);
     background-blend-mode: screen;
     transform: rotate(-180deg);
     z-index: 2;
 }
+
+/* Rest of your CSS code... */
+
 
 .go-places {
     position: absolute;

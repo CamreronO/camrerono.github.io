@@ -136,3 +136,25 @@ line-height: 30px;
 
 color: rgba(61, 61, 61, 1);
 }
+
+.car-img {
+    position: absolute;
+width: 1360px;
+height: 616px;
+left: 40px;
+top: 99px;
+
+background: url(Rectangle.png);
+}
+
+.rectangle-3 {
+    position: absolute;
+width: 1360px;
+height: 202px;
+left: 1400px;
+top: 715px;
+
+background: linear-gradient(180deg, #CE9671 -0.5%, rgba(206, 150, 113, 0) 100%);
+background-blend-mode: screen;
+transform: rotate(-180deg);
+}

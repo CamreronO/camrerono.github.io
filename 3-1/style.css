@@ -145,6 +145,7 @@ left: 40px;
 top: 99px;
 
 background: url(Rectangle.png);
+z-index: 1;
 }
 
 .rectangle-3 {
@@ -152,11 +153,12 @@ background: url(Rectangle.png);
 width: 1360px;
 height: 202px;
 left: 40px;
-top: 715px;
+top: 99px;
 
 background: linear-gradient(180deg, #CE9671 -0.5%, rgba(206, 150, 113, 0) 100%);
 background-blend-mode: screen;
 transform: rotate(-180deg);
+z-index: 2;
 }
 
 .go-places {

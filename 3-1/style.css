@@ -154,44 +154,43 @@ border-radius: 100px;
 
 .go-places {
     position: absolute;
-width: 358px;
-height: 93px;
-left: 341px;
-top: 350px;
+    width: 358px;
+    height: 93px;
+    left: 341px;
+    top: 350px;
 
-font-family: 'Roboto';
-font-style: normal;
-font-weight: 900;
-font-size: 78.9191px;
-line-height: 92px;
-/* identical to box height */
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 78.9191px;
+    line-height: 92px;
+    /* identical to box height */
 
-color: rgba(255, 255, 255, 1);
+    color: rgba(255, 255, 255, 1);
+    z-index: 3;
 }
 
 .with-figma {
     position: absolute;
-width: 104px;
-height: 22px;
-left: 341px;
-top: 443px;
+    width: 104px;
+    height: 22px;
+    left: 341px;
+    top: 443px;
 
-font-family: 'Roboto';
-font-style: normal;
-font-weight: 400;
-font-size: 18px;
-line-height: 21px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 21px;
 
-color: #FFFFFF;
+    color: #FFFFFF;
+    z-index: 3;
 }
 
-.rectanlge-2 {
+.rectangle-2 {
     position: absolute;
-width: 420px;
-height: 747px;
-left: 980px;
-top: 99px;
-
-background: rgba(3, 28, 255, 1);
-mix-blend-mode: multiply;
+    width: 420px;
+    height: 747px;
+    left: 980px;
+    top: 99px;
 }

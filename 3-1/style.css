@@ -137,7 +137,7 @@ border-radius: 100px;
     left: 40px;
     top: 200px;
     background: url(Rectangle.png);
-    z-index: 2;
+    z-index: 1;
 }
 
 .rectangle-3 {
@@ -145,7 +145,7 @@ border-radius: 100px;
     width: 1361px;
     height: 202px;
     left: 48px;
-    top: 620px;
+    top: 621px;
     background: linear-gradient(180deg, #CE9671 -0.5%, rgba(206, 150, 113, 0) 100%);
     background-blend-mode: screen;
     transform: rotate(-180deg);
@@ -191,7 +191,7 @@ border-radius: 100px;
     position: absolute;
     width: 420px;
     height: 747px;
-    left: 981px;
+    left: 984px;
     top: 99px;
     
     background: #031CFF;
@@ -205,107 +205,6 @@ width: 343px;
 height: 0px;
 left: 525px;
 top: 466px;
-
 border: 2px solid #FFFFFF;
 z-index: 3;
 }
-.group-4 {
-    position: absolute;
-    width: 523px;
-    height: 54px;
-    left: 40px;
-    top: 800px;
-    z-index: 3;
-  }
-  
-  
-  .group1 {
-    position: absolute;
-    width: 251px;
-    height: 54px;
-    left: 613px;
-    top: 526px;    
-  }
-  
-  .polygon {
-    position: absolute;
-    width: 17px;
-    height: 14px;
-    left: 682px;
-    top: 544px;
-    
-    background: #FFFFFF;
-    border-radius: 1.5px;
-    transform: rotate(90deg);
-  }
-  
-  .watch-video {
-    position: absolute;
-    width: 119px;
-    height: 22px;
-    left: 703px;
-    top: 542px;
-    
-    font-family: 'Roboto';
-    font-style: normal;
-    font-weight: 900;
-    font-size: 18px;
-    line-height: 21px;
-    
-    color: #FFFFFF;
-    
-    border-radius: 100px;
-  }
-  
-  .rectangle4 {
-    box-sizing: border-box;
-
-    position: absolute;
-    width: 251px;
-    height: 54px;
-    left: 613px;
-    top: 526px;
-    
-    border: 3px solid #FFFFFF;
-    border-radius: 100px;
-  }
-  
-  .group2 {
-    position: absolute;
-    width: 251px;
-    height: 54px;
-    left: 341px;
-    top: 526px;    
-  }
-  
-  .reserve-now {
-    position: absolute;
-    width: 122px;
-    height: 22px;
-    left: 405px;
-    top: 542px;
-    
-    font-family: 'Roboto';
-    font-style: normal;
-    font-weight: 900;
-    font-size: 18px;
-    line-height: 21px;
-    text-align: center;
-    
-    color: #FFFFFF;
-    
-    border-radius: 100px;
-  }
-  
-  .rectangle-4 {
-    position: absolute;
-width: 251px;
-height: 54px;
-left: 341px;
-top: 526px;
-
-background: #031CFF;
-border-radius: 100px;
-
-  }
-  

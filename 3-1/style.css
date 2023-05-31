@@ -144,8 +144,8 @@ border-radius: 100px;
     position: absolute;
     width: 1361px;
     height: 202px;
-    left: 47px;
-    top: 590px;
+    left: 48px;
+    top: 615px;
     background: linear-gradient(180deg, #CE9671 -0.5%, rgba(206, 150, 113, 0) 100%);
     background-blend-mode: screen;
     transform: rotate(-180deg);
@@ -196,6 +196,7 @@ border-radius: 100px;
     
     background: #031CFF;
     mix-blend-mode: multiply;
+    z-index: 3;
 }
 
 .line {
@@ -206,6 +207,7 @@ left: 525px;
 top: 466px;
 
 border: 2px solid #FFFFFF;
+z-index: 3;
 }
 
 .group-4 {
@@ -213,7 +215,8 @@ border: 2px solid #FFFFFF;
     width: 523px;
     height: 54px;
     left: 341px;
-    top: 526px;    
+    top: 526px;   
+    z-index: 3; 
 }
 
 .group-4 .group-1 .polygon {
@@ -226,6 +229,7 @@ top: 544px;
 background: #FFFFFF;
 border-radius: 1.5px;
 transform: rotate(90deg);
+z-index: 3; 
 }
 
 .group-4 .group-1 .watch-video {
@@ -244,6 +248,7 @@ line-height: 21px;
 color: #FFFFFF;
 
 border-radius: 100px;
+z-index: 3; 
 }
 
 .group-4 .group-1 .rectangle4 {
@@ -257,6 +262,7 @@ top: 526px;
 
 border: 3px solid #FFFFFF;
 border-radius: 100px;
+z-index: 3; 
 }
 
 .group-4 .group2 {
@@ -265,6 +271,7 @@ border-radius: 100px;
     height: 54px;
     left: 341px;
     top: 526px;
+    z-index: 3; 
 }
 
 .group-4 .group2 .reserve-now {
@@ -284,6 +291,7 @@ text-align: center;
 color: #FFFFFF;
 
 border-radius: 100px;
+z-index: 3; 
 }
 
 .group-4 .group2 .rectangle-4 {
@@ -295,4 +303,5 @@ top: 526px;
 
 background: #031CFF;
 border-radius: 100px;
+z-index: 3; 
 }

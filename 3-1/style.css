@@ -142,7 +142,7 @@ border-radius: 100px;
 
 .rectangle-3 {
     position: absolute;
-    width: 1360px;
+    width: 1361px;
     height: 202px;
     left: 47px;
     top: 650px;
@@ -193,4 +193,7 @@ border-radius: 100px;
     height: 747px;
     left: 980px;
     top: 99px;
+    
+    background: #031CFF;
+    mix-blend-mode: multiply;
 }

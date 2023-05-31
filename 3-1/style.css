@@ -137,7 +137,7 @@ border-radius: 100px;
     left: 40px;
     top: 200px;
     background: url(Rectangle.png);
-    z-index: 1;
+    z-index: 2;
 }
 
 .rectangle-3 {
@@ -211,11 +211,13 @@ z-index: 3;
 }
 .group-4 {
     position: absolute;
-width: 523px;
-height: 54px;
-left: 341px;
-top: 526px;
+    width: 523px;
+    height: 54px;
+    left: 40px;
+    top: 800px;
+    z-index: 3;
   }
+  
   
   .group1 {
     position: absolute;

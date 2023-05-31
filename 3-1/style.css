@@ -132,7 +132,7 @@ border-radius: 100px;
 
 .car-img {
     position: relative; 
-    width: 1360px;
+    width: 1361px;
     height: 616px;
     left: 40px;
     top: 200px;
@@ -145,7 +145,7 @@ border-radius: 100px;
     width: 1361px;
     height: 202px;
     left: 48px;
-    top: 615px;
+    top: 620px;
     background: linear-gradient(180deg, #CE9671 -0.5%, rgba(206, 150, 113, 0) 100%);
     background-blend-mode: screen;
     transform: rotate(-180deg);
@@ -191,7 +191,7 @@ border-radius: 100px;
     position: absolute;
     width: 420px;
     height: 747px;
-    left: 980px;
+    left: 981px;
     top: 99px;
     
     background: #031CFF;
@@ -208,100 +208,4 @@ top: 466px;
 
 border: 2px solid #FFFFFF;
 z-index: 3;
-}
-
-.group-4 {
-    position: absolute;
-    width: 523px;
-    height: 54px;
-    left: 341px;
-    top: 526px;   
-    z-index: 3; 
-}
-
-.group-4 .group-1 .polygon {
-    position: absolute;
-width: 17px;
-height: 14px;
-left: 682px;
-top: 544px;
-
-background: #FFFFFF;
-border-radius: 1.5px;
-transform: rotate(90deg);
-z-index: 3; 
-}
-
-.group-4 .group-1 .watch-video {
-    position: absolute;
-width: 119px;
-height: 22px;
-left: 703px;
-top: 542px;
-
-font-family: 'Roboto';
-font-style: normal;
-font-weight: 900;
-font-size: 18px;
-line-height: 21px;
-
-color: #FFFFFF;
-
-border-radius: 100px;
-z-index: 3; 
-}
-
-.group-4 .group-1 .rectangle4 {
-    box-sizing: border-box;
-
-position: absolute;
-width: 251px;
-height: 54px;
-left: 613px;
-top: 526px;
-
-border: 3px solid #FFFFFF;
-border-radius: 100px;
-z-index: 3; 
-}
-
-.group-4 .group2 {
-    position: absolute;
-    width: 251px;
-    height: 54px;
-    left: 341px;
-    top: 526px;
-    z-index: 3; 
-}
-
-.group-4 .group2 .reserve-now {
-    position: absolute;
-width: 122px;
-height: 22px;
-left: 405px;
-top: 542px;
-
-font-family: 'Roboto';
-font-style: normal;
-font-weight: 900;
-font-size: 18px;
-line-height: 21px;
-text-align: center;
-
-color: #FFFFFF;
-
-border-radius: 100px;
-z-index: 3; 
-}
-
-.group-4 .group2 .rectangle-4 {
-    position: absolute;
-width: 251px;
-height: 54px;
-left: 341px;
-top: 526px;
-
-background: #031CFF;
-border-radius: 100px;
-z-index: 3; 
 }

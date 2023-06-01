@@ -1,60 +1,49 @@
 .rectangle-6 {
     position: absolute;
-width: 100px;
-height: 4px;
-left: 968px;
-top: 1px;
-
-background: rgba(3, 28, 255, 1);
+    width: 100px;
+    height: 4px;
+    left: 968px;
+    top: 1px;
+    background: rgba(3, 28, 255, 1);
 }
 
 .menu {
     position: absolute;
-width: 415px;
-height: 17px;
-left: 855px;
-top: 44px;
-
-font-family: 'Campton';
-font-size: 12px;
-line-height: 14px;
-
-color: rgba(61, 61, 61, 1);
+    width: 415px;
+    height: 17px;
+    left: 855px;
+    top: 44px;
+    font-family: 'Campton';
+    font-size: 12px;
+    line-height: 14px;
+    color: rgba(61, 61, 61, 1);
 }
 
 .rectangle4-1 {
     box-sizing: border-box;
-
-position: absolute;
-width: 103px;
-height: 36px;
-left: 1291px;
-top: 34px;
-
-border: 1px solid rgba(3, 28, 255, 1);
-border-radius: 100px;
+    position: absolute;
+    width: 103px;
+    height: 36px;
+    left: 1291px;
+    top: 34px;
+    border: 1px solid rgba(3, 28, 255, 1);
+    border-radius: 100px;
 }
 
 .sign-in {
     position: absolute;
-width: 62.46px;
-height: 16.96px;
-left: 1310px;
-top: 43px;
-
-font-family: 'Roboto';
-font-style: normal;
-font-weight: 900;
-font-size: 14px;
-line-height: 16px;
-/* identical to box height */
-
-text-align: center;
-
-color: rgba(3, 28, 255, 1);
-
-
-border-radius: 100px;
+    width: 62.46px;
+    height: 16.96px;
+    left: 1310px;
+    top: 43px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 14px;
+    line-height: 16px;
+    text-align: center;
+    color: rgba(3, 28, 255, 1);
+    border-radius: 100px;
 }
 
 .group-8 {
@@ -139,7 +128,6 @@ border-radius: 100px;
     color: rgba(61, 61, 61, 1);
 }
 
-
 .car-img {
     position: relative; 
     width: 1361px;
@@ -168,14 +156,11 @@ border-radius: 100px;
     height: 93px;
     left: 341px;
     top: 350px;
-
     font-family: 'Roboto';
     font-style: normal;
     font-weight: 900;
     font-size: 78.9191px;
     line-height: 92px;
-    /* identical to box height */
-
     color: rgba(255, 255, 255, 1);
     z-index: 3;
 }
@@ -186,13 +171,11 @@ border-radius: 100px;
     height: 22px;
     left: 341px;
     top: 443px;
-
     font-family: 'Roboto';
     font-style: normal;
     font-weight: 400;
     font-size: 15px;
     line-height: 21px;
-
     color: #FFFFFF;
     z-index: 3;
 }
@@ -203,7 +186,6 @@ border-radius: 100px;
     height: 747px;
     left: 989px;
     top: 125px;
-    
     background: #031CFF;
     mix-blend-mode: multiply;
     z-index: 3;
@@ -211,33 +193,10 @@ border-radius: 100px;
 
 .line {
     position: absolute;
-width: 343px;
-height: 0px;
-left: 520px;
-top: 460px;
-border: 2px solid #FFFFFF;
-z-index: 3;
-}
-
-.mountain-img {
-    
-position: absolute;
-width: 516px;
-height: 689px;
-left: 120px;
-top: 820px;
-
-background: url(image.png);
-}
-
-.rectangle3-1 {
-    position: absolute;
-width: 191px;
-height: 366px;
-left: 311px;
-top: 1509px;
-
-background: linear-gradient(180deg, #0B0E2D 0%, rgba(206, 150, 113, 0) 100%);
-background-blend-mode: screen;
-transform: rotate(-180deg);
+    width: 343px;
+    height: 0px;
+    left: 520px;
+    top: 460px;
+    border: 2px solid #FFFFFF;
+    z-index: 3;
 }

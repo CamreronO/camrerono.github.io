@@ -193,7 +193,7 @@
     width: 420px;
     height: 747px;
     left: 989px;
-    top: 203px;
+    top: 210px;
     background: #031CFF;
     mix-blend-mode: multiply;
     z-index: 2;
@@ -414,4 +414,26 @@ background: #CCCCCC;
     top: 843px;
     
     background: #031CFF;
+}
+
+.group-7 .lets-connect {
+    position: absolute;
+width: 185px;
+height: 17px;
+left: 55px;
+top: 808px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 900;
+font-size: 14px;
+line-height: 16px;
+/* identical to box height */
+
+letter-spacing: 0.5em;
+text-transform: uppercase;
+
+color: #031CFF;
+
+transform: rotate(-90deg);
 }

@@ -207,6 +207,7 @@
     height: 54px;
     left: 341px;
     top: 526px;
+    z-index: 3;
 }
 
 
@@ -216,6 +217,7 @@
     height: 54px;
     left: 341px;
     top: 526px;
+    z-index: 3;
 }
 
 
@@ -227,6 +229,7 @@
     top: 526px;
     background: #031CFF;
     border-radius: 100px;
+    z-index: 3;
 }
 
 
@@ -244,6 +247,7 @@
     text-align: center;
     color: #FFFFFF;
     border-radius: 100px;
+    z-index: 3;
 }
 
 
@@ -253,6 +257,7 @@
     height: 54px;
     left: 613px;
     top: 526px;
+    z-index: 3;
 }
 
 
@@ -265,6 +270,7 @@
     top: 526px;
     border: 3px solid #FFFFFF;
     border-radius: 100px;
+    z-index: 3;
 }
 
 
@@ -281,6 +287,7 @@
     line-height: 21px;
     color: #FFFFFF;
     border-radius: 100px;
+    z-index: 3;
 }
 
 
@@ -293,4 +300,5 @@
     background: #FFFFFF;
     border-radius: 1.5px;
     transform: rotate(90deg);
+    z-index: 3;
 }

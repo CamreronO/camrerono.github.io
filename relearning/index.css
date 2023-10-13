@@ -5,3 +5,9 @@ p {
 .abbr {
     color: green;
 }
+
+.link-to-lazy-page {
+    text-align: right;
+    display: block;
+    width: 100%;
+}

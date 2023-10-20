@@ -1,10 +1,4 @@
-
-.abbr {
-    color: green;
-}
-
-.link-to-lazy-page {
-    text-align: right;
-    display: block;
-    width: 100%;
+a {
+   text-decoration: underline;
+   text-align: 18px;
 }

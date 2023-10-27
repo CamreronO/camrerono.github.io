@@ -37,10 +37,12 @@ nav ul li:last-child {
 nav {
   background-color: darkblue;
   border-bottom: 1px solid #000;
+  height: 50px;
 }
 
+
 div {
-  
+
 }
 
 div h2 {

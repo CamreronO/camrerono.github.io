@@ -40,7 +40,7 @@ nav ul {
   
   div {
     background-color: #FFA500;
-    border: 3px solid #ffd700;
+    border: 3px solid #83693a;
   }
 
   div h2, div h1 {
@@ -49,12 +49,12 @@ nav ul {
   
   
   div h2 {
-    background-color: #FFA500;
+    background-color: #83693a;
   }
   
   div p {
     margin-left: 20px;
-    color: #FFC266;
+    color: #faad38;
   }
   
   div ul {

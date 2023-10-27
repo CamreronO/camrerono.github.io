@@ -2,10 +2,16 @@
 <html lang="en">
 <head>
     <title>SPINNING MONKEY!</title>
+    <link rel="stylesheet" type="text/css" href="index.css">
 </head>
 <body>
-    <div style="text-align: center;">
-        <img src="SPINNINGMONKEY.gif" alt="Man holding monkey's hand while spinning him through the air." style="display: inline-block;">
+    <div style="text-align: center;" class="monkey-container">
+        <img id="spinning-monkey" src="SPINNINGMONKEY.gif" alt="Man holding monkey's hand while spinning him through the air." style="display: inline-block;">
     </div>
+    <div class="counter">
+        <p>Spin Count: <span id="spin-count">0</span></p>
+    </div>
+    <button id="reset-button">Reset Counter</button>
+    <script src="script.js"></script>
 </body>
 </html>

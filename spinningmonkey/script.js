@@ -13,7 +13,7 @@ function spinMonkey() {
 }
 
 
-setInterval(spinMonkey, 600); // Updated the interval to 750 milliseconds (0.75 seconds)
+setInterval(spinMonkey, 10); // Updated the interval to 750 milliseconds (0.75 seconds)
 
 
 // Reset the counter and monkey rotation

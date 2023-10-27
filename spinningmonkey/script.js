@@ -12,8 +12,13 @@ function spinMonkey() {
     spinningMonkey.style.transform = `rotate(${count * 360}deg)`;
 }
 
+<<<<<<< HEAD
 // Change the interval to 750 milliseconds (0.75 seconds)
 setInterval(spinMonkey, 500); // Update the interval to 750 milliseconds (0.75 seconds)
+=======
+
+setInterval(spinMonkey, 750); // Update the interval to 750 milliseconds (0.75 seconds)
+>>>>>>> c99862c811aa178dc93f93729e2744d28d589037
 
 // Reset the counter and monkey rotation
 resetButton.addEventListener("click", () => {

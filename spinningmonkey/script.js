@@ -13,12 +13,9 @@ function spinMonkey() {
 }
 
 
-<<<<<<< HEAD
-setInterval(spinMonkey, 200); 
-=======
-setInterval(spinMonkey, 480); // Updated the interval to 750 milliseconds (0.75 seconds)
 
->>>>>>> 79be632b7cd256f94a037568fb7fc3f8ed61e507
+setInterval(spinMonkey, 200); 
+
 
 // Reset the counter and monkey rotation
 resetButton.addEventListener("click", () => {

@@ -12,7 +12,7 @@ function spinMonkey() {
     spinningMonkey.style.transform = `rotate(${count * 360}deg)`;
 }
 
-setInterval(spinMonkey, 500);
+setInterval(spinMonkey, 900);
 
 // Handle page visibility changes
 if (typeof document.hidden !== "undefined") {
@@ -30,7 +30,7 @@ if (visibilityChange) {
             clearInterval(spinningMonkeyInterval);
         } else {
             // Page is visible, resume counting
-            spinningMonkeyInterval = setInterval(spinMonkey, 500);
+            spinningMonkeyInterval = setInterval(spinMonkey, 900);
         }
     });
 }
@@ -42,4 +42,4 @@ resetButton.addEventListener("click", () => {
     spinningMonkey.style.transform = "rotate(0deg)";
 });
 
-let spinningMonkeyInterval = setInterval(spinMonkey, 500);
+let spinningMonkeyInterval = setInterval(spinMonkey, 900);

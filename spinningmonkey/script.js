@@ -12,10 +12,10 @@ function spinMonkey() {
     spinningMonkey.style.transform = `rotate(${count * 360}deg)`;
 }
 
-setInterval(spinMonkey, 1200);
+setInterval(spinMonkey, 950);
 
 // Handle page visibility changes
-if (typeof document.hidden !== "undefined") {
+if (typeof document.hidden !== "undefined") { 
     visibilityChange = "visibilitychange";
 } else if (typeof document.msHidden !== "undefined") {
     visibilityChange = "msvisibilitychange";
@@ -30,7 +30,7 @@ if (visibilityChange) {
             clearInterval(spinningMonkeyInterval);
         } else {
             // Page is visible, resume counting
-            spinningMonkeyInterval = setInterval(spinMonkey, 1200);
+            spinningMonkeyInterval = setInterval(spinMonkey, 950);
         }
     });
 }
@@ -42,4 +42,4 @@ resetButton.addEventListener("click", () => {
     spinningMonkey.style.transform = "rotate(0deg)";
 });
 
-let spinningMonkeyInterval = setInterval(spinMonkey, 1200);
+let spinningMonkeyInterval = setInterval(spinMonkey,  950);

@@ -1,6 +1,7 @@
 .monkey-container {
     text-align: center;
     margin: 20px auto;
+    height: 100%;
 }
 
 .counter, #reset-button {

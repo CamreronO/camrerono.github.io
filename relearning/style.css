@@ -1,8 +1,39 @@
-body {
-    background-image: url("drill-monkey-01_2x3.avif");
-    background-repeat: no-repeat;
-    background-position: right top;
-    margin-right: 500px;
-    background-attachment: fixed;
-    background-size: 400px 538px;
-  }
+p.dotted {
+border-style: dotted;
+}
+
+p.dashed {
+  border-style: dashed;
+}
+
+p.solid {
+  border-style: solid;
+}
+
+p.double {
+  border-style: double;
+}
+
+p.groove {
+  border-style: groove;
+}
+
+p.ridge {
+  border-style: ridge;
+}
+
+p.inset {
+  border-style: inset;
+}
+
+p.outset {
+  border-style: outset;
+}
+
+p.none {
+  border-style: none;
+}
+
+p.hidden {
+  border-style: hidden;
+}

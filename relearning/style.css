@@ -1,15 +1,4 @@
 body {
-    background-color: aqua;
+    background-image: url(spinningmonkey/SPINNINGMONKEY.gif);
 }
 
-.background-ex-1 {
-background-color: rgb(153, 53, 153);
-}
-
-.background-ex-2 {
-    background-color: rgb(80, 80, 223);
-}
-
-.background-ex-3 {
-    background-color: rgb(0, 0, 0);
-}

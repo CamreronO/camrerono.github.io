@@ -1,9 +1,9 @@
-// Get the necessary elements from the HTML document
 const spinningMonkey = document.getElementById("spinning-monkey");
 const spinCount = document.getElementById("spin-count");
 const resetButton = document.getElementById("reset-button");
 
 let count = 0;
+let visibilityChange;
 
 // Function to increment the counter and rotate the monkey
 function spinMonkey() {
@@ -12,10 +12,28 @@ function spinMonkey() {
     spinningMonkey.style.transform = `rotate(${count * 360}deg)`;
 }
 
+setInterval(spinMonkey, 200);
 
+// Handle page visibility changes
+if (typeof document.hidden !== "undefined") {
+    visibilityChange = "visibilitychange";
+} else if (typeof document.msHidden !== "undefined") {
+    visibilityChange = "msvisibilitychange";
+} else if (typeof document.webkitHidden !== "undefined") {
+    visibilityChange = "webkitvisibilitychange";
+}
 
-setInterval(spinMonkey, 200); 
-
+if (visibilityChange) {
+    document.addEventListener(visibilityChange, function () {
+        if (document.hidden) {
+            // Page is hidden, stop counting
+            clearInterval(spinningMonkeyInterval);
+        } else {
+            // Page is visible, resume counting
+            spinningMonkeyInterval = setInterval(spinMonkey, 200);
+        }
+    });
+}
 
 // Reset the counter and monkey rotation
 resetButton.addEventListener("click", () => {
@@ -23,3 +41,5 @@ resetButton.addEventListener("click", () => {
     spinCount.textContent = count;
     spinningMonkey.style.transform = "rotate(0deg)";
 });
+
+let spinningMonkeyInterval = setInterval(spinMonkey, 200);

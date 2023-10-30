@@ -1,4 +1,7 @@
 body {
-    background-image: url(SPINNINGMONKEY.gif);
-}
-
+    background-image: url("drill-monkey-01_2x3.avif");
+    background-repeat: no-repeat;
+    background-position: right top;
+    margin-right: 200px;
+    background-attachment: scroll;
+  }

@@ -14,7 +14,7 @@ function spinMonkey() {
 
 
 
-setInterval(spinMonkey, 900); 
+setInterval(spinMonkey, 1018); 
 
 
 // Reset the counter and monkey rotation

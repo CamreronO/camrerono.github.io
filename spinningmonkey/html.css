@@ -1,16 +1,18 @@
+
 .monkey-container {
     text-align: center;
-    margin: 20px auto;
+    margin-top: 20px;
 }
 
-.counter, #reset-button {
+.counter {
     text-align: center;
     font-size: 18px;
-    margin: 20px auto;
+    margin-top: 20px;
 }
 
 #reset-button {
     display: block;
+    margin: 0 auto;
     padding: 10px 20px;
     background-color: #3498db;
     color: #fff;
@@ -18,3 +20,6 @@
     cursor: pointer;
     border-radius: 5px;
 }
+
+
+
